@@ -1,20 +1,12 @@
 [
-    {
-        "id": "1",
-        "title": "Slide 1",
-        "description": "First of three slide",
-        "image_url": "https://cdn.al-ain.com/lg/images/2022/1/16/140-012740-pubg-mobile-aftershock-new-map-exciting_700x400.jpg"
-    },
-    {
-        "id": "2",
-        "title": "Slide 2",
-        "description": "Second of three slide",
-        "image_url": "https://cdn.al-ain.com/lg/images/2022/1/16/140-012740-pubg-mobile-aftershock-new-map-exciting_700x400.jpg"
-    },
-    {
-        "id": "3",
-        "title": "Slide 3",
-        "description": "Third of three slide",
-        "image_url": "https://cdn.al-ain.com/lg/images/2022/1/16/140-012740-pubg-mobile-aftershock-new-map-exciting_700x400.jpg"
-    }
+      {
+      "imageurl":"https://telegra.ph/file/74aec1ab73a94a71b297f.jpg"
+
+
+   },
+
+   {
+      "imageurl":"https://telegra.ph/file/9e01baabcb0f37a4fc46e.jpg"
+
+   }
 ]
