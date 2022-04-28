@@ -1,6 +1,6 @@
 {
    "page":1,
-   "per_page":8,
+   "per_page":10,
    "total":16,
    "total_pages":2,
    "data":[
@@ -120,7 +120,7 @@
          "email":"charles.morris@reqres.in",
          "first_name":"000",
          "last_name":"Morris",
-         "avatar":"https://reqres.in/img/faces/5-image.jpg"
+         "avatar":"https://reqres.in/img/faces/1-image.jpg"
       }
    ]
 }
