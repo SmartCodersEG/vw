@@ -4,5 +4,19 @@
          "gameName":"Giant",
          "gamePhoto":"https://imgs2.dab3games.com/giant-20489060.png",
          "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+     {
+         "id":"2",
+         "gameName":"Giant",
+         "gamePhoto":"https://imgs2.dab3games.com/giant-20489060.png",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+     {
+         "id":"3",
+         "gameName":"Giant",
+         "gamePhoto":"https://imgs2.dab3games.com/giant-20489060.png",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
       }
 ]
