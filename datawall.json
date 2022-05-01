@@ -25,5 +25,33 @@
          "gameName":"Bubble Woods",
          "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/bubblewoods4_1/gs_regular_w.webp",
          "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+     {
+         "id":"5",
+         "gameName":"Bridge Of Doom",
+         "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/bridgeofdoom_1/gs_regular_w.webp",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+     {
+         "id":"6",
+         "gameName":"Cake Slice Ninja",
+         "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/cakesliceninja_1/gs_regular_w.webp",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+     {
+         "id":"7",
+         "gameName":"Bolly Beat",
+         "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/bollybeat_1/gs_regular_w.webp",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     {
+         "id":"8",
+         "gameName":"Bee Connect",
+         "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/beeconnect_1/gs_regular_w.webp",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
       }
+     
 ]
