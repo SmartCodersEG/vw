@@ -1,21 +1,28 @@
 [
      {
          "id":"1",
-         "gameName":"Giant",
+         "gameName":"Giant 2048",
          "gamePhoto":"https://imgs2.dab3games.com/giant-20489060.png",
          "weblink":"https://gamesnacks.com/embed/games/2048giant"
       },
      
      {
          "id":"2",
-         "gameName":"Giant",
+         "gameName":"Stack Bounce",
          "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/stackbounce_1/gs_tall_w.webp",
          "weblink":"https://gamesnacks.com/embed/games/2048giant"
       },
      
      {
          "id":"3",
-         "gameName":"Giant",
+         "gameName":"Nom Nom Connect",
+         "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/omnomconnectxmas_1/gs_regular_w.webp",
+         "weblink":"https://gamesnacks.com/embed/games/2048giant"
+      },
+     
+      {
+         "id":"4",
+         "gameName":"Hola",
          "gamePhoto":"https://cdn.gamesnacks.com/@thumbs/v3/omnomconnectxmas_1/gs_regular_w.webp",
          "weblink":"https://gamesnacks.com/embed/games/2048giant"
       }
